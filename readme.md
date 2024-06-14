@@ -2,7 +2,7 @@
 
 ## The community wanted some Pump.fun Solana fun so here we go.
 
-I'll be testing this live in the [IYKYK Telegram group](https://t.me/IYKYK_Solana1).
+To be tested live in the [IYKYK Telegram group](https://t.me/IYKYK_Solana1).
 
 I'll be optimising it for speed and efficency over the period of time before $IYKYK reaches Raydium
 
