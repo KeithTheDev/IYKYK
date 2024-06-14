@@ -37,39 +37,3 @@ Insufficient  Sufficient
 End of Loop
   |
 End
-
-## 2.
-
-Start
-  |
-Initialize Logging & Client
-  |
-Retrieve Wallets from Database
-  |
-Create aiohttp Session
-  |
-While Transaction Count < Max Transactions
-  |
-For Each Wallet
-  |
-  Check Balance
-  /        \
-Insufficient  Sufficient
-  Funds        |
-              Execute Buy Trade
-              |
-Increment Transaction Count
-  |
-For Each Wallet
-  |
-  Check Balance
-  /        \
-Insufficient  Sufficient
-  Funds        |
-              Execute Sell Trade
-              |
-Increment Transaction Count
-  |
-End of Loop
-  |
-End
