@@ -1,4 +1,4 @@
-# IYKYK - Telegram Integrated Pump Fun Bump Bot
+# IYKYK - Pump Fun Bump Bot
 
 ## The community wanted some Pump.fun Solana fun so here we go.
 
