@@ -10,7 +10,7 @@ Here's the Pump.fun link: [https://pump.fun/5tzkqRo8XjHefzuJumij7suA6N7nTZA1FSLt
 
 ## Next Steps
 
-One tested, I'll be leasing the bot to devs and/or sell the source code. 
+Once tested, I'll be leasing the bot to devs and/or sell the source code. 
 
 My Twitter/X is [@Eth_Moon_](https://x.com/Eth_Moon_) - get in touch for details. 
 
